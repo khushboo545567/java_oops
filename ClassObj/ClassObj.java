@@ -1,3 +1,5 @@
+// encapsulation (group of the data and methods in a single unit(class) is called encapsulation and data hiding is possible by encapsulation by the private access specifier)
+
 class Car{
     String color;
     int speed;
