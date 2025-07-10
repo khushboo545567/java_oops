@@ -4,6 +4,9 @@ public class GrandParents{
     private String name;
     private int age ;
     
+    public GrandParents(){
+        System.out.println("grandparents constructor is called");
+    }
     public void setName(String name){
         this.name = name;
     }
@@ -17,3 +20,6 @@ public class GrandParents{
         return age;
     }
 }
+
+// Hierarchical Inheritance means multiple classes inherits form the same class;
+
