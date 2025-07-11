@@ -1,4 +1,5 @@
 package animal;
+// PACKAGE NAME SHOULD BE SAME AS THE FOLDERS NAME
 import vehicle.Car;
 public class Cat{
     String name ; //this name is accessable in the same package but not in different package to ACCESS MAKE IT PUBLIC 
