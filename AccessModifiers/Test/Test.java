@@ -7,5 +7,7 @@ public class Test{
         Student s1 = new Student();
         s1.age = 12;
         s1.going();
+
+        School.getInstance();
     }
 }
